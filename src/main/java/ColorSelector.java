@@ -29,7 +29,7 @@ public class ColorSelector {
     private final Map<String, String> colorHashMap = new HashMap();
 
     /*
-    * The Foxfnl constructor builds the GUI, adds entries to the hash map
+    * The ColorSelector constructor builds the GUI, adds entries to the hash map
     */
     public ColorSelector() {
 
